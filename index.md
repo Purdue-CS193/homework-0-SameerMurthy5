@@ -27,9 +27,9 @@ Syntax highlighted code block
 ```
 ## Sameer's First CS193 Homework
 
-### My favorite things about CS 193
-    - learning about GitHub
-    - the teachers
+### My favorite things about CS 193 
+- learning about GitHub
+- the teachers
 
 
 
