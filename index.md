@@ -29,7 +29,7 @@ Syntax highlighted code block
 
 ### My favorite things about CS 193 
 - learning about GitHub
-- the teachers
+- the instructors
 
 
 
